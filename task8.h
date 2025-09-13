@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Function to find substring
 int findSubstring(string str, string substr);
 
 #endif
