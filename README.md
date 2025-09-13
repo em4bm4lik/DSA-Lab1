@@ -1,2 +1,2 @@
 # DSA-Lab1
-BSAI-1-A Fall 2025 Lab 1
+We are learning git in this lab
